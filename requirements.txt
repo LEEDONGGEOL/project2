@@ -1,6 +1,6 @@
 setuptools
 streamlit==1.24.0
-numpy==1.24.3
+numpy==1.23.5
 pandas==1.5.3
 seaborn==0.11.2
 matplotlib==3.7.1
